@@ -1,3 +1,11 @@
+## Preview of App
+![image](https://github.com/aviraltandon21/Movie-Database/blob/master/preview/one.jpg?raw=true)
+![image](https://github.com/aviraltandon21/Movie-Database/blob/master/preview/two.jpg?raw=true)
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
